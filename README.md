@@ -9,7 +9,9 @@
 
 Download it<br />
 <code>git clone https://github.com/tximista64/kawaii_ip_fetcher<code><br />
-Set it executable<br />
-<code>chmod +x kawaii_ip_fetcher.py<code><br />
-Execute it<br />
+
+Set it executable <br />
+<code>chmod +x kawaii_ip_fetcher.py<code> <br />
+
+Execute it <br />
 <code>./kawaii_ip_fetcher.py<code>
