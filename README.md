@@ -10,7 +10,7 @@
 <h3>Download it</h3><br />
 <code>git clone https://github.com/tximista64/kawaii_ip_fetcher<code>
 
-<h3>Set it executable</h3>h3<br />
+<h3>Set it executable</h3><br />
 <code>chmod +x kawaii_ip_fetcher.py<code> 
 
 <h3>Execute it</h3><br />
