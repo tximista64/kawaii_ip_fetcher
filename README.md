@@ -7,11 +7,11 @@
 
 <h2>How 2</h2>
 
-Download it<br />
-<code>git clone https://github.com/tximista64/kawaii_ip_fetcher<code><br />
+<h3>Download it</h3><br />
+<code>git clone https://github.com/tximista64/kawaii_ip_fetcher<code>
 
-Set it executable <br />
-<code>chmod +x kawaii_ip_fetcher.py<code> <br />
+<h3>Set it executable</h3>h3<br />
+<code>chmod +x kawaii_ip_fetcher.py<code> 
 
-Execute it <br />
+<h3>Execute it</h3><br />
 <code>./kawaii_ip_fetcher.py<code>
