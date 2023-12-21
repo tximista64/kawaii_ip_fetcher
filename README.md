@@ -8,10 +8,10 @@
 <h2>How 2</h2>
 
 <h3>Download it</h3><br />
-<code>git clone https://github.com/tximista64/kawaii_ip_fetcher<code>
+<code>git clone https://github.com/tximista64/kawaii_ip_fetcher</code>
 
 <h3>Set it executable</h3><br />
-<code>chmod +x kawaii_ip_fetcher.py<code> 
+<code>chmod +x kawaii_ip_fetcher.py</code> 
 
 <h3>Execute it</h3><br />
-<code>./kawaii_ip_fetcher.py<code>
+<code>./kawaii_ip_fetcher.py</code>
